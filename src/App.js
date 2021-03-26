@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          To mops Edit <code>src/App.js</code> and save to rofl.
+          To MÖPSE Edit <code>src/App.js</code> and save to ROFL.
         </p>
         <a
           className="App-link"
